@@ -1,0 +1,3 @@
+name: ostate
+main: com.github.ostate.main
+version: 0.0.1-SNAPSHOT
